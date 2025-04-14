@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: lifesub-web
-        image: acrdigitalgarage01.azurecr.io/dg0305/lifesub-web:1.0.0
+        image: acrdigitalgarage02.azurecr.io/dg03010/lifesub-web:1.0.0
         imagePullPolicy: Always
         ports:
         - containerPort: 18080
