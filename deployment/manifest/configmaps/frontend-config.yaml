@@ -5,7 +5,7 @@ metadata:
 data:
   runtime-env.js: |
     window.__runtime_config__ = {
-      MEMBER_URL: 'http://dg0305.20.214.196.128.nip.io/api/auth',
-      MYSUB_URL: 'http://dg0305.20.214.196.128.nip.io/api/mysub',
-      RECOMMEND_URL: 'http://dg0305.20.214.196.128.nip.io/api/recommend'
+      MEMBER_URL: 'http://dg0310.20.249.184.228.nip.io/api/auth',
+      MYSUB_URL: 'http://dg0310.20.249.184.228.nip.io/api/mysub',
+      RECOMMEND_URL: 'http://dg0310.20.249.184.228.nip.io/api/recommend'
     };
